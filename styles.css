@@ -1,0 +1,26 @@
+/* Style Guide
+  * Primary Color: slategray
+  * Secondary Color: coral 
+*/
+
+h1 {
+  color: coral;
+  font-family: 'Bangers', cursive;
+  font-size: 48px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+
+p {
+  color: slategray;
+}
+
+/* Typography 
+  * Primary Font: font-family: 'Bangers', cursive;
+*/
+
+img {
+  width: 100%;
+}
+
+

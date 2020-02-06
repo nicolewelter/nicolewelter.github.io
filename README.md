@@ -1,6 +1,9 @@
 # ewuweblab.github.io
 Manikoth.xyz
 
+## Bio
+I am a Dad. 
+
 ## Style Tile
 ### Colors
 * Primary Color: Black

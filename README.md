@@ -1,18 +1,16 @@
-# Manikoth.xyz
-Manikoth.xyz
+# Nicole Welter
+Nicole Welter
 
 ## Bio
 Your 50+ word biography. Suggested items to include are: major, career goals, experience, and interests. 
 
 ## Style Tile
 ### Colors
-* Primary Color: Gray
-* Secondary Color: Black
+* Primary Color: 
+* Secondary Color: 
 
 ### Typography
-* Primary Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-* Secondary Font: [Oswald](https://fonts.google.com/specimen/Oswald)
+* Primary Font:
+* Secondary Font:
 
 ## References
-* [Normalize](https://necolas.github.io/normalize.css/)
-* [Google Font](https://fonts.google.com/)

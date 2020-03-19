@@ -25,7 +25,6 @@ main img {
 .me {
   max-width: 50%;
   margin-left: 160px;
-  border: 5px #38363D;
 }
 
 body {
@@ -105,5 +104,4 @@ p {
 .project {
   max-width: 75%;
   margin-left: 80px;
-  border: 5px #38363D;
 }
